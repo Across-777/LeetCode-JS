@@ -24,7 +24,3 @@ var removeDuplicates = function (nums) {
   return i+1
 };
 // @lc code=end
-
-let a = [1, 1, 2,]
-let b = removeDuplicates(a)
-console.log(a, b);
